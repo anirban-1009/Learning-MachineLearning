@@ -15,4 +15,4 @@ This repository is to manage and keep a track of learnings from the series of vi
 
 ---
 
-[Building Makemode pt1](https://www.youtube.com/watch?v=TCH_1BHY58I) - [MLP](MLp.ipynb)
+[Building Makemode pt1](https://www.youtube.com/watch?v=TCH_1BHY58I) - [MLP](MLP.ipynb)
